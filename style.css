@@ -1,0 +1,22 @@
+*{
+    font-family: 'Merienda';
+}
+
+#c1 {
+    background-image: url("border.png") !important;
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+}
+
+#c1 {
+    background-image: url("border.png") !important;
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+}
+
+.ps {
+    padding-top: 100px;
+    padding-left: 15px;
+    padding-right: 15px;
+    padding-bottom: 70px;
+}
